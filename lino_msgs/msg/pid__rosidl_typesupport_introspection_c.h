@@ -1,1 +1,0 @@
-/home/bing/lino2_upper/build/lino_msgs/rosidl_typesupport_introspection_c/lino_msgs/msg/pid__rosidl_typesupport_introspection_c.h
